@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fullstackexam2/static/css/main.c36f8a53.css",
+    "main.js": "/fullstackexam2/static/js/main.b185d42f.js",
+    "index.html": "/fullstackexam2/index.html",
+    "main.c36f8a53.css.map": "/fullstackexam2/static/css/main.c36f8a53.css.map",
+    "main.b185d42f.js.map": "/fullstackexam2/static/js/main.b185d42f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c36f8a53.css",
+    "static/js/main.b185d42f.js"
+  ]
+}
